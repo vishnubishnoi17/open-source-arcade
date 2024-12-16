@@ -19,7 +19,7 @@ Bhuro
 Anjan Singla
 Mohit Agarwal
 Sourav
-
+Vishnu
 Anshika Arora
 
 Dhairya Singhal
@@ -54,5 +54,4 @@ Lakshita
 Saurabh Rana
 Tanay Paliwal
 Omprakash Saran
-Vishnu
 
